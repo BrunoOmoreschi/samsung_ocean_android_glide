@@ -1,4 +1,4 @@
-![header](D:\Programation\socean\samsung_ocean_android_glide\header.png)
+![header](https://github.com/BrunoOmoreshi/samsung_ocean_android_glide/blob/main/header.png)
 
 # Android:  Webservices com Retrofit e Imagens com Glide
 
@@ -22,4 +22,4 @@ Esse app usa o Glide para buscar imagens na internet e assim colocamos elas na a
 
 A outra imagem minha foto é uma que está sendo carregada localmente para comparação de recursos do app.
 
-![glide_app](D:\Programation\socean\samsung_ocean_android_glide\glide_app.png)
+![glide_app](https://github.com/BrunoOmoreshi/samsung_ocean_android_glide/blob/main/glide_app.png)
